@@ -7,7 +7,7 @@ df -h
 echo "SYSTEM MEMORY STATUS"
 free -m
 echo "LIST OF USERS LOGGED IN"
-who
+w
 echo "My first build completed successfully"
 echo "*******************************************************************************";
 
